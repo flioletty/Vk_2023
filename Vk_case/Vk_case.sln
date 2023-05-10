@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vk_case", "Vk_case\Vk_case.csproj", "{2C0084AD-D3CE-41F7-AC89-23DD6E2C7741}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VkDataBase", "VkDataBase\VkDataBase.csproj", "{11275E90-484B-46CF-9329-22343D449FA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C0084AD-D3CE-41F7-AC89-23DD6E2C7741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C0084AD-D3CE-41F7-AC89-23DD6E2C7741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C0084AD-D3CE-41F7-AC89-23DD6E2C7741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C0084AD-D3CE-41F7-AC89-23DD6E2C7741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11275E90-484B-46CF-9329-22343D449FA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11275E90-484B-46CF-9329-22343D449FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11275E90-484B-46CF-9329-22343D449FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11275E90-484B-46CF-9329-22343D449FA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B7786E8-9747-4FD6-8967-6180633E9218}
+	EndGlobalSection
+EndGlobal
